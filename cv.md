@@ -1,4 +1,4 @@
-## Nikita Mikheytsev 
+# Nikita Mikheytsev
 ### Contacts
 * email: [welt992@gmail.com](welt992@gmail.com)
 * phone №: +79159355285
@@ -11,8 +11,8 @@
 * Python with Jupyter notebooks - intermediate level regarding signal processing, visualisation and data analysis.
 * Experience using supercomputer sustems as a tool of research.
 ## Education
-* MSc Physics degree at Lobachevsky State University of Nizhniy Novgorod at radiophysics department.
-  Thesis :"Generation of radiation in the mid-infrared range upon re lection of a relativistically strong laser pulse from the plasma boundary"
+MSc Physics degree at Lobachevsky State University of Nizhniy Novgorod at radiophysics department.
+hesis :"Generation of radiation in the mid-infrared range upon re lection of a relativistically strong laser pulse from the plasma boundary"
 ## Code example
 ```
 l = subprocess.check_output(['find', '.', "-name", "LinearPolarization*.bin"], cwd = folder_name)
