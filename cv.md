@@ -2,7 +2,6 @@
 ### Contacts
 * email: [welt992@gmail.com](welt992@gmail.com)
 * phone №: +79159355285
-
 ## Summary
 * I have spent 6 years of study in the field of interaction of intense laser radiation with plasma.
 * The most exiting part for me there was implement solutions for different related problems.
