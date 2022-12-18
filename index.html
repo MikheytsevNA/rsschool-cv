@@ -83,21 +83,21 @@
       <section class="main-section" id="code">
         <h2 class="section-title">Code example</h2>
         <pre>
-          <code class="code-section">
-            "def bouncing_ball(h, bounce, window):
-              
-                if (window<h and h>0 and bounce<1 and bounce >0):
-                    i = 1# counter
-                    new_h = h #height of every new bounce
-                else:
-                    return -1
-                while new_h>window:
-                    if new_h*bounce> window:
-                        i+=2
-                        new_h*=bounce
-                    else:
-                        break
-                return i"
+          <code>
+def bouncing_ball(h, bounce, window):
+  
+    if (window < h and h>0 and bounce < 1 and bounce > 0):
+        i = 1# counter
+        new_h = h #height of every new bounce
+    else:
+        return -1
+    while new_h > window:
+        if new_h*bounce > window:
+            i+=2
+            new_h*=bounce
+        else:
+            break
+    return i
           </code>
         </pre>
       </section>
