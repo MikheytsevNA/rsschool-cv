@@ -58,6 +58,18 @@ footer {
     padding: 10px;
 }
 
+.main-profile{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 20px 50px;
+    border-bottom: 10px solid #826502;
+}
+h1 {
+    text-align:center;
+}
+
 .section-title {
     font-size: 20px;
     font-weight: 400;
